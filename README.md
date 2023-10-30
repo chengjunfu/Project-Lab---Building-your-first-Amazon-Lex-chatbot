@@ -1,6 +1,6 @@
 # Build a customer service chatbot with Amazon Lex
 
-For self-test purposes.
+For self-test purposes(Richard Fu updated 20231029).
 
 Amazon Lex allows you to quickly and easily build sophisticated, natural language, customer service chatbots. 
 
